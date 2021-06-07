@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'awesome_print'
-gem 'rspec-rails'
-gem 'pry'
+gem 'rspec'
 gem 'byebug-dap'
 gem 'rubocop'
+gem 'awesome_print'
