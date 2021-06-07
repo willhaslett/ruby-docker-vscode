@@ -5,7 +5,7 @@
 
 - VSCode
 
-- The [VSCode extension for developing in Docker conntainers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- The [VSCode extension for developing in Docker containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ## Installation
 1. Clone the repo.
