@@ -24,4 +24,4 @@ You can run with or without debugging as you normally would. When a breakpoint i
 be added to the Docker container when its image is built. Modify this list to manage your 
 extensions.
 
-- You can replace test.rb with a useful program. With any Ruby file selected in the editor, running with or without debugging will run the currently active file. To instead always run a project's entrypoint Ruby file regardless of the editor state, modify the "program" key-value pair in ./vscode/launch.json with the name of your top-level Ruby file.
+- You can replace test.rb with a useful program 🙂. With any Ruby file selected in the editor, running with or without debugging will run the currently active file. To instead always run a project's entrypoint Ruby file regardless of the editor state, modify the "program" key-value pair in ./vscode/launch.json with the name of your top-level Ruby file.
